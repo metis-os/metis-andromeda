@@ -6,7 +6,7 @@
 # DIRS
 
 repo=andromeda
-PKGDIR="$(pwd)/${repo}/x86_64/"
+PKGDIR="$(pwd)/${repo}/os/x86_64/"
 
 
 Cleanup() {
