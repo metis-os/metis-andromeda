@@ -6,7 +6,7 @@ Setup:
 
 Add the following line to your `/etc/pacman.conf`
 ```bash
-[cosmic]
+[andromeda]
 SigLevel = Optional TrustAll
 Include = /etc/pacman.d/metis-andromeda
 ```
